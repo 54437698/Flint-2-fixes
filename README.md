@@ -1,4 +1,4 @@
-# Flint-2-fixes
+# GLI Open WRT Flint-2-fixes
 A collection of fixes for GLI Flint two 
 
 
